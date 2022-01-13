@@ -45,10 +45,10 @@
             </div>
             <div class="facility-col">
                 <a href="https://www.krishnasbodh.com/">
-                <img src="">
+                <img src="https://yt3.ggpht.com/vs64CcFvsd7FlKrmzbYwaFmFOZqGaJSpdBHB69dTWuZ7BxWmiM_0BBtsRH_dh9B8cnVm3KmqGBo=s176-c-k-c0x00ffffff-no-rj">
                 </a>
-                <h3></h3>
-                <p>write</p>
+                <h3>Krishna's Bodh</h3>
+                <p>It's Blog written by faculty Mr.Krishna'</p>
             </div>
             <div class="facility-col">
                 <a href="https://github.com/just-innovative-bro">
