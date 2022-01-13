@@ -45,8 +45,10 @@
                 <p>write</p>
             </div>
             <div class="course-col">
+                <a href="https://studymaterial-pec.blogspot.com/">
                 <h3>ECE</h3>
                 <p>write</p>
+                </a>
             </div>    
         </div>
         <div class="row">
