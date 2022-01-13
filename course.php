@@ -24,45 +24,45 @@
         <div class="row">
             <div class="course-col">
                 <h3>CSE</h3>
-                <p>write</p>
+                <p>Computer Science Engineering</p>
             </div>
             <div class="course-col">
                 <h3>CS-D</h3>
-                <p>write</p>
+                <p>Computer Science & Engineering (Data Science)</p>
             </div>
             <div class="course-col">
-                <h3>CS-M</h3>
-                <p>write</p>
-            </div>    
+                <h3>CS-A&M</h3>
+                <p>Computer Science & Engineering (Artificial Intelligence & Machine Learning)</p>
+            </div>        
         </div>
         <div class="row">
             <div class="course-col">
                 <h3>CS-A</h3>
-                <p>write</p>
+                <p>Computer Science & Engineering (Artificial Intelligence)</p>
             </div>
             <div class="course-col">
                 <h3>IT</h3>
-                <p>write</p>
+                <p>Information Technology Engineering</p>
             </div>
             <div class="course-col">
                 <a href="https://studymaterial-pec.blogspot.com/">
                 <h3>ECE</h3>
-                <p>write</p>
+                <p>Electronics and Communications Engineering</p>
                 </a>
             </div>    
         </div>
         <div class="row">
             <div class="course-col">
                 <h3>EEE</h3>
-                <p>write</p>
+                <p>Electrical and Electronics Engineering</p>
             </div>
             <div class="course-col">
                 <h3>MECH</h3>
-                <p>write</p>
+                <p>Mechanical Engineering</p>
             </div>
             <div class="course-col">
                 <h3>CIVIL</h3>
-                <p>write</p>
+                <p>Construction Investigation Various Information Levelling Engineering</p>
             </div>    
         </div>    
     </section>
