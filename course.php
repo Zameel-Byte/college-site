@@ -13,6 +13,22 @@
     text-align: center;
     background-color: #337ab7;
 }</style>
+<style>
+    .top{
+    text-align: center;
+    background-color: #337ab7;
+}
+    @media(max-width:700px){
+        .top{
+        display: block;
+        text-align: center;
+        background-color: #337ab7;
+    }
+    .top img{
+        width:100%
+    }
+}
+</style>
 </head>
 <body>
     <div class="top">
