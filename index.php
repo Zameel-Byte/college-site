@@ -9,8 +9,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css">
 <script src="https://kit.fontawesome.com/553d2763c4.js" crossorigin="anonymous"></script>
-<!-- <script src="https://apis.google.com/js/platform.js" async defer></script>
-<meta name="google-signin-client_id" content="647343089809-81gge9cn48lcug2dvu04opgmb80b0811.apps.googleusercontent.com"> -->
 <style>
     .top{
     text-align: center;
