@@ -1,7 +1,7 @@
 <?php
-  $hostname = "localhost";
-  $username = "root";
-  $password = "";
+  $hostname = "studentsconnectedin.database.windows.net";
+  $username = "zameel";
+  $password = "ali$282003";
   $dbname = "pragati_engineering_college_login2";
 
   $conn = mysqli_connect($hostname, $username, $password, $dbname);
