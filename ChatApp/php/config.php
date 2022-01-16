@@ -1,8 +1,8 @@
 <?php
-  $hostname = "studentsconnectedin.database.windows.net";
-  $username = "zameel";
-  $password = "ali$282003";
-  $dbname = "studentsconnectedin/pragati_engineering_college_login";
+  $hostname = "sql307.epizy.com";
+  $username = "epiz_30600377";
+  $password = "IG3X0DfwS1P4Xh";
+  $dbname = "epiz_30600377_pragati_engineering_college_login2";
 
   $conn = mysqli_connect($hostname, $username, $password, $dbname);
   if(!$conn){
