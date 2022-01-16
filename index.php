@@ -42,9 +42,9 @@
                     <li><a href="course.php" target="_blank">COURSE</a></li>
                     <li><a href="blogs.php" target="_blank">BLOGS</a></li>
                     <li><a href="mailto: zameelalimohammed282003@gmail.com,vineel4444@gmail.com,bashamohammad12963@gmail.com,mohammadmadinabhasha0206@gmail.com">CONTACT</a></li>
-                    <li><a href="/college site/ChatApp/" target="_blank">CHAT</a></li>
-                    <li><a href="/college site/Dictionary/" target="_blank">DICTINORY</a></li>
-                    <li><a href="/college site/feedback/index.php" target="_blank">FEEDBACK</a></li>
+                    <li><a href="/ChatApp/" target="_blank">CHAT</a></li>
+                    <li><a href="/Dictionary/" target="_blank">DICTINORY</a></li>
+                    <li><a href="/feedback/index.php" target="_blank">FEEDBACK</a></li>
                     <!-- <li><a href="#" onclick="signOut();">Sign out</a></li>    -->
                 </ul>
             </div>
