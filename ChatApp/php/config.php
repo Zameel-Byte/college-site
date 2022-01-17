@@ -1,5 +1,5 @@
 <?php
-  $hostname = "127.0.0.1:52851";
+  $hostname = "studentsconnectedin.database.windows.net";
   $username = "zameel";
   $password = "ali$282003";
   $dbname = "pragati_engineering_college_login";
