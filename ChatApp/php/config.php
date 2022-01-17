@@ -1,5 +1,5 @@
 <?php
-  $hostname = "localhost";
+  $hostname = "studentsconnectingin.scm.azurewebsites.net";
   $username = "zameel";
   $password = "ali$282003";
   $dbname = "pragati_engineering_college_login";
