@@ -52,8 +52,8 @@
         </nav>
     <div class="text-box">
         <h1>Learning is Supreme Deity</h1>
-        <p>write description<br>for next lines</p>
-        <a href="https://pragati.ac.in/" class="hero-btn" target="_blank">Know More</a>       
+        <p>If you use This wisely<br>It will definitely make suceed</p>
+        <a href="/ChatApp/" class="hero-btn" target="_blank">Signup/Login</a>       
     </section>
     <!--campus-->
     <section class="course">
