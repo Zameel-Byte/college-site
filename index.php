@@ -1,41 +1,45 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta name="viewport" content="width=device-width, initial-scale = 1.0">
-        <title>Pragati Engineering College</title>
-        <link rel="stylesheet" href="style.css">
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css">
-<script src="https://kit.fontawesome.com/553d2763c4.js" crossorigin="anonymous"></script>
-<style>
-    .top{
-    text-align: center;
-    background-color: #337ab7;
-}
-    @media(max-width:700px){
-        .top{
-        display: block;
-        text-align: center;
-        background-color: #337ab7;
-    }
-    .top img{
-        width:100%
-    }
-}
-</style>
-    </head>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale = 1.0">
+    <title>Pragati Engineering College</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css">
+    <script src="https://kit.fontawesome.com/553d2763c4.js" crossorigin="anonymous"></script>
+    <style>
+        .top {
+            text-align: center;
+            background-color: #337ab7;
+        }
+
+        @media(max-width:700px) {
+            .top {
+                display: block;
+                text-align: center;
+                background-color: #337ab7;
+            }
+
+            .top img {
+                width: 100%
+            }
+        }
+    </style>
+</head>
+
 <body>
     <div class="top">
-        <img src="cropped-2-1.png" alt="Pragati" >
+        <img src="cropped-2-1.png" alt="Pragati">
     </div>
     <!-- <div class="g-signin2" data-onsuccess="onSignIn"></div> -->
     <section class="header">
         <nav>
-            <a href="index.php"><img src =""></a>
+            <a href="index.php"><img src=""></a>
             <div class="nav-links" id="navLinks">
-                <i class="far fa-times-circle fa-2x"onclick ="hideMenu()"></i>
+                <i class="far fa-times-circle fa-2x" onclick="hideMenu()"></i>
                 <ul>
                     <li><a href="">HOME</a></li>
                     <li><a href="">ABOUT</a></li>
@@ -48,22 +52,22 @@
                     <!-- <li><a href="#" onclick="signOut();">Sign out</a></li>    -->
                 </ul>
             </div>
-            <i class="fa fa-bars" onclick ="showMenu()"></i>       
+            <i class="fa fa-bars" onclick="showMenu()"></i>
         </nav>
-    <div class="text-box">
-        <h1>Learning is Supreme Deity</h1>
-        <p>If you use This wisely<br>It will definitely make suceed</p>
-        <a href="/ChatApp/" class="hero-btn" target="_blank">Signup/Login</a>       
+        <div class="text-box">
+            <h1>Learning is Supreme Deity</h1>
+            <p>If you use This wisely<br>It will definitely make suceed</p>
+            <a href="/ChatApp/" class="hero-btn" target="_blank">Signup/Login</a>
     </section>
     <!--campus-->
     <section class="course">
         <h1>Campus</h1>
         <p>write description</p>
-            <div class="campus-col">
-                <img src="https://career.webindia123.com/career/institutes/aspupload/Uploads/andhra-pradesh/25939/2_main.jpg">
-                <div class="layer">
-                    <h3>Location<br>1-378, ADB Road, Surampalem Near Kakinada, Surampalem, Andhra Pradesh 533437</h3>  
-            </div>        
+        <div class="campus-col">
+            <img src="https://career.webindia123.com/career/institutes/aspupload/Uploads/andhra-pradesh/25939/2_main.jpg">
+            <div class="layer">
+                <h3>Location<br>1-378, ADB Road, Surampalem Near Kakinada, Surampalem, Andhra Pradesh 533437</h3>
+            </div>
     </section>
     <!--facility-->
     <section class="facility">
@@ -85,8 +89,8 @@
                 <h3>Lab</h3>
                 <p>write</p>
             </div>
-        </div>       
-    </section>    
+        </div>
+    </section>
     <!--tesrimonials-->
     <section class="tesrimonials">
         <h1>What Our Student Says</h1>
@@ -122,13 +126,13 @@
                     <i class="fa fa-star-half-o" aria-hidden="true"></i>
                 </div>
             </div>
-        </div>                             
-    </section> 
+        </div>
+    </section>
     <!--call to ation -->
     <section class="cta">
         <h1>Our Forum</h1>
         <a href="https://q-and-a.forumotion.com/" class="hero-btn">HERE</a>
-    </section>   
+    </section>
     <!--fotter-->
     <section class="footer">
         <h4>About us</h4>
@@ -138,25 +142,32 @@
             <i class="fa fa-twitter" aria-hidden="true"></i>
             <i class="fa fa-instagram" aria-hidden="true"></i>
             <i class="fa fa-linkedin" aria-hidden="true"></i>
-        <div>    
-    </section>    
+            <div>
+    </section>
     <!--JavaScript -->
     <script>
         var navLinks = document.getElementById("navLinks");
+
         function showMenu() {
             navLinks.style.right = "0";
         }
+
         function hideMenu() {
             navLinks.style.right = "-200px";
         }
     </script>
     <script type="text/javascript">
-            var vsid = "kc21509150a6d73";
-            (function() { 
-                var vsjs = document.createElement('script'); vsjs.type = 'text/javascript'; vsjs.async = true; vsjs.setAttribute('defer', 'defer');
+        var vsid = "kc21509150a6d73";
+        (function() {
+            var vsjs = document.createElement('script');
+            vsjs.type = 'text/javascript';
+            vsjs.async = true;
+            vsjs.setAttribute('defer', 'defer');
             vsjs.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.leadchatbot.com/vsa/chat.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vsjs, s);
-            })();
-</script>      
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(vsjs, s);
+        })();
+    </script>
 </body>
-</html>    
+
+</html>
